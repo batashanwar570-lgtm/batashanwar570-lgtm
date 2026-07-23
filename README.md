@@ -1,5 +1,13 @@
 README.md
-# Hi, I'm Batashanwar 👋
+## Qoqnoos.App 🚀
+
+Qoqnoos.App is a software project focused on building modern digital solutions.
+
+## About
+
+This project explores application architecture, web development, APIs, and intelligent software solutions.
+
+## Project Structure Hi, I'm Batashanwar 👋
 
 ## About Me
 
